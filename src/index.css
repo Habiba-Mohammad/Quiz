@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.duck{
+  width:20%;
+  height:30%;
+  margin-top:10%
+}
+@media(max-width:600px){
+.duck{
+  visibility: hidden;
+}
+.cont{color:red}
+}
