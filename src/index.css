@@ -20,5 +20,12 @@ code {
 .duck{
   visibility: hidden;
 }
+.duck2{
+  visibility: hidden;
+}
+.duck-text{
+  margin-left:-80%;
+  margin-top:30%;
+font-size:2rem;}
 .cont{color:red}
 }

@@ -69,9 +69,9 @@ return (
   <div className='lg:ml-72 flex lg:flex-row flex-gap-10 '>
 
 <div className=' flex lg:flex-row gap-5 text-green-500 font-bold  text-3xl'> 
-              <img className="w-96 duck"src={image5}/>
+              <img className="w-96 duck2"src={image5}/>
 
-      <div className='mt-60'>  You scored {score} out of {questions.length}</div>
+      <div className='mt-60 duck-text'>  You scored {score} out of {questions.length}</div>
       </div>
       </div>
     ) : (
